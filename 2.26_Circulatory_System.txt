@@ -1,0 +1,24 @@
+The circulatory system => is a system of blood vessels, with a pump and valves
+
+Blood vessels:
+    Arteries => blood flows away from the heart
+    Veins => blood flows towards the heart
+    Capillaries => tiny vessels linking arteries and veins
+    Main vessels:
+        Aorta => exiting the heart
+        Vena Cava => entering the heart
+
+Double circulatory system:
+    - The blood passes twice through the heart to complete curcuit of the body
+    Advantages:
+        - Allows greater bodies
+        - More blood is oxygeneted
+
+The heart:
+    - has 4 chambers
+    - Septum => separates oxygeneted and deoxygeneted blood
+    - Blood leaves ventricles at high pressure (5x more in left)
+    - Systemic circuit:
+        - From aorta blood goes to: Hepatic and Renal 
+        and other arteries to other body parts
+        - They return in coresponding vein back to the Vena Cava

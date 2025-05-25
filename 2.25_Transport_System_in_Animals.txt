@@ -1,0 +1,19 @@
+All vertabrates have blood system which contains four parts:
+    - A medium (the fluid to flow) - blood
+    - A system of tubes (to carry fluid) - arteries and veins
+    - A pump - heart
+    Sites of exchange - capillaries
+
+Blood is circulatory medium composed of 2 parts:
+    - Plasma (55%) 
+    - Cells (45%)
+
+Red blood cells (erythrocytes):
+    -Function => transport oxygen
+    -Adaptation => no nucleus = more heamoglobin; bi-concave shape = large surf. area
+
+Phagocytes => irregular shape of nucleus; engulfs pathogens
+
+Lymphocytes => produce antibodies
+
+Platelets => enable blood clotting
