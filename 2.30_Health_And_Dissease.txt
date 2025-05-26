@@ -1,0 +1,19 @@
+Dissease => state of body when it is unable to maintain Homeostasis
+Homeostasis => keeping optimum conditions for body functions
+
+Signs => fever, rash
+Symptoms => feeling unwell, fatigue
+
+Non-infectious disseases:
+    - Degenerative (age related) => effect of Free radicals
+    - Deficiency
+    - Allergy
+    - Inherited
+
+Infectious disseases:
+    - Caused by pathogens
+    - Transmisible
+    - How to fight:
+        - Antibiotics
+        - Immunisation programmes
+        - improved public Hygiene

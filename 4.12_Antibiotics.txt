@@ -1,0 +1,6 @@
+Antibiotics => substance made by one microorganism to kill another microorganism
+
+Types:
+    - Bactericidal => kill pathogens
+    - Bacteriostatic =>prevent pathogens from reproducing
+    

@@ -1,0 +1,27 @@
+Antibody => protein produced by B-lymphocytes; Y-shaped
+
+Pathogens are destroyed by:
+    - engulfed by phagocytes
+    - T-lymphocytes burst Pathogen's membranes / infected host cell
+    - some antibodies destroy pathogen's cell walls/membranes
+
+Lymphocytes:
+    - found in blood and in lymph nodes
+    - large nucleus
+    - B-cells produce antibodies when stimulated (contact with pathogen)
+
+Antigens:
+    - Protein / carbohydrate on surface of pathogen
+    - Provoke immune system of host
+
+Immunity:
+    - Active:
+        - Antibodies made
+        - Memory cells
+        - Long term
+        - Infected by pathogen / vaccine with weakened pathogen
+    - Passive:
+        - Antibodies given
+        - no memory cells
+        - short term
+        - through breast milk / antibodies in serum from lab animals

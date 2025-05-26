@@ -1,0 +1,19 @@
+Food posisoning:
+    - Microbes feed on host tissue when eaten
+    - Microbes release toxin
+    - Causes:
+        - preparation:
+            - contaminated water
+            - poor Hygiene
+        - storing:
+            - uncooked / cooked foods stored together
+    - foods most at risk:
+        - cooked meat or rice
+        - Shellfish
+    - Symptoms:
+        - Abdominal pain
+        - Diarrhoea, Vomiting => dehydration
+    - Prevention:
+        - avoiding contamination
+        - storing in fridges
+        - cook well
