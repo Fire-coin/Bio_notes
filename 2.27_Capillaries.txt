@@ -12,7 +12,7 @@ within tissues and organs
 
 Lymph => extra fluid that drains from cells and tissues
 
-Vascular shunt => directly connects an arteriole to a venule
+Vascular shunt => redirection of blood flow
 
 The amount of water forced out of the capillaries to form tissue fluid, must all
 be absorbed. If not, water balance in the body will be affected and the tissues will swell up.

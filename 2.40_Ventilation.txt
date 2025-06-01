@@ -1,0 +1,33 @@
+Breathing => a set of muscular movements allowing ventilation
+Breathing requires:
+    - intercostal muscles & diaphragm
+    - properties of pleural membranes, surrounding the lungs
+
+Pleural membranes are sticky, ensuring that lung movement follows chest
+
+Breathing in:
+    - volume of chest cavity increases
+    - volume of lungs increases
+    - pressure inside the lungs decreases
+
+Insipiration:
+    - External intercostal muscles contract => rib cage moves upwards and outwards
+    - Diaphragm moves down and flattens
+    - Lungs volume increase and pressure falls 
+
+Expiration:
+    - External intercostal muscles relax => rib cage falls down and inwards
+    - Diaphragm relaxes => return to dome shape
+    - Lungs volume decrease and pressure increases
+
+Asthma:
+    treatment => bronchodilator (relaxes muscles)
+
+Effieciency of lungs:
+    - measured with spirometer on spirogram
+
+Exercise and breathing:
+    - increased breath rate
+    - increased Tidal volume (air / breath)
+    - Deeper & faster heartbeat and breathing
+    

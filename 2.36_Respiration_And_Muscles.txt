@@ -1,0 +1,30 @@
+Energy conversions => photosynthesis & respiration
+
+Aerobic respiration => is the oxidation of food molecules (eg. glucose) involving enzymes
+
+ATP => Adenosine triphosphate
+
+
+Muscles => collection of very long muscle fibres, that all shorten at the same time
+
+For earobic respiration:
+    - respiration system => takes in the oxygen
+    - digestive system => digests & absorbs the glucose
+    - circulatory system => delivers reactants to muscles
+
+Anaerobic Respiration => when not enough energy is produced by aerobic,
+muscles release by themselves from food
+
+Lactic acid:
+    - half of glucose molecule
+    - leading to fatigue
+    - oxidised to pyruvate + extra oxygen needed
+
+Anaerobic in yeast => ethanol + CO2
+
+Cell respiration formula:
+    - glucose + oxygen -> carbon dioxide + water + ATP
+    - C6H12O6 + 6O2 -> 6CO2 + 6H2O + ATP
+    - oxygen consumption => measured by respirometer
+    - CO2 release => limewater || hydrogencarbonate indicator
+    

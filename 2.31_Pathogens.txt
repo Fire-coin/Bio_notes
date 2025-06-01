@@ -1,5 +1,5 @@
 Parasites harm host by:
-    - secreting toxins(posisons)
+    - secreting toxins
     - result of multiplication => rapid multiplication can damage host cells
     - result of imune response
 

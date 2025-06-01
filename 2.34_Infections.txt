@@ -10,7 +10,7 @@ Chemical secrations:
 Physical defences:
     - Wounded skin => platelets release thrombin that convers fibrinogen into fibrin
 
-Pathogens have Antigens on hteir cell curface, which is recognised and destroyed
+Pathogens have Antigens on their cell curface, which is recognised and destroyed
 by phagocytes and antibodies
 
 Phagocytes are attracted to woulnds by chemical signals

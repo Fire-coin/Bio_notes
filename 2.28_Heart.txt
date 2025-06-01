@@ -5,7 +5,7 @@ Valves:
     - Atrioventricular valves => between atria and ventricles:
         - Tricuspid (right)
         - Bicuspid (left)
-    - Semilunar => found in arteries leaving heart\
+    - Semilunar => found in arteries leaving heart
 
 Tendons (heartstrings) => prevent atrioventricular valves from turning inside out
 
